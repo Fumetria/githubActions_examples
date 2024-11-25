@@ -36,4 +36,4 @@ jobs:
         run: npm i jest
 
       - name: Lunch test
-        run: npm test
+        run: npm run test
